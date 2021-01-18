@@ -110,9 +110,9 @@ const MapView = ({ children }: any) => {
       updateStation(
         stationId: 1
         capacity: 7700
-        stationType: "Fuck Angela"
-        latitude: "black"
-        longitude: "a black man will always loss"
+        stationType: "I love dsti"
+        latitude: "code"
+        longitude: "Code to solve sl probs"
       ) {
         stationId
         location {
