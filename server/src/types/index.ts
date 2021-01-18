@@ -1,2 +1,2 @@
 const databaseName = "water";
-export const mongoDbConnectionString = `mongodb+srv://|Tony:213580@numberscloud.fak0z.mongodb.net/helloWorld?retryWrites=true&w=majority`;
+export const mongoDbConnectionString = `mongodb+srv://josh-user:josh12345@cluster0.dtbu2.mongodb.net/waters?retryWrites=true&w=majority`;
